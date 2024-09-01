@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ejercicio2_triangulo": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
