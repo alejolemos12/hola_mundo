@@ -1,5 +1,4 @@
-﻿
-public class Program
+﻿public class triangulos_Solucion
 {
     //Lea la longitud de tres segmentos y que muestre si se puede construir un triángulo con estos segmentos.
     private static void Main(string[] args)
@@ -16,15 +15,12 @@ public class Program
         //asignando a la variable suma los valores de lado 1 y lado 2
         suma = lado1 + lado2;
         //implementación de un condicional, donde me valida los datos ingresados
-        if (suma<lado3)
+        if (suma > lado3)
         {
-            Console.WriteLine($"la suma de los: {lado1} y {lado2} forman un triangulo");
+            Console.WriteLine($"la suma de los lados {lado1} y {lado2}:  forman un triangulo");
         }
-        else
-            Console.WriteLine($"la suma de los :{lado1} y {lado2}  no forman un triangulo por que {lado3} tiene los mismo centimetros");
-        {
-
-        
-    }
+        else { 
+            Console.WriteLine($"la suma de los lados {lado1} y {lado2} :  no forman un triangulo por que  lado {lado3}:  tiene los mismo centimetros");
+        }
     }
 }
