@@ -1,6 +1,6 @@
 {
   "profiles": {
-    "hola_mundo": {
+    "triangulos": {
       "commandName": "Project"
     },
     "Container (Dockerfile)": {

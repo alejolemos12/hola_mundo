@@ -1,5 +1,4 @@
 ﻿
-
 public class Program
 {
     //Lea la longitud de tres segmentos y que muestre si se puede construir un triángulo con estos segmentos.
@@ -17,18 +16,16 @@ public class Program
         //asignando a la variable suma los valores de lado 1 y lado 2
         suma = lado1 + lado2;
         //implementació de un condicional, donde me valida los datos ingresados
-        if (suma > lado3)
+        if (suma > lado3 && suma == lado3)
         {
             Console.WriteLine($"La longitud de los lados :\n lado 1 y lado 2 forman un triangulo");
         }
         else
-        {
-            if (suma == lado3)
-            {
-                Console.WriteLine($"la longitud del lado 3:\n {lado3} es igual a la suma de los lados 1 y 2 \n, su suma no forman un triangulo");
-            }
-            else
-            {
+        { 
+            Console.WriteLine($"la longitud del lado 3:\n {lado3} es igual a la suma de los lados 1 y 2 \n, su suma no forman un triangulo");
+        }
+
+        else{
                 Console.WriteLine($"la longitud del lado 3:\n {lado3} es mayor a la suma de los lados 1 y 2 \n, su suma no forman un triangulo");
             }
 

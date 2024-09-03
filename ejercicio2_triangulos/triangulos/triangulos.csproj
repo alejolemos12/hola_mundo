@@ -10,6 +10,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Include="C:\Users\Usuario\programacion_2024\ejercicio2_triangulos\hola_mundo-ejercicio2_triangulos\triangulos_solucion.cs" Link="triangulos_solucion.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.21.0" />
   </ItemGroup>
 
