@@ -2,8 +2,12 @@
 {
     private static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!"); // aqui estoy imprimiendobhnbnbvb
+        string nombre = "alejandro";
+        Console.WriteLine($"Hello, World!  {nombre}"); // aqui estoy imprimiendobhnbnbvb
     }
 
-    string nombre = "alejandro";
+    
+
+    
+  
 }
