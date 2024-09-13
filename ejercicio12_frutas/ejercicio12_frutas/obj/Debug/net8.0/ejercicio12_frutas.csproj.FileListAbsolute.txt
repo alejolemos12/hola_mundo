@@ -1,0 +1,15 @@
+C:\Users\Usuario\programacion_2024\ejercicio12_frutas\ejercicio12_frutas\ejercicio12_frutas\bin\Debug\net8.0\ejercicio12_frutas.exe
+C:\Users\Usuario\programacion_2024\ejercicio12_frutas\ejercicio12_frutas\ejercicio12_frutas\bin\Debug\net8.0\ejercicio12_frutas.deps.json
+C:\Users\Usuario\programacion_2024\ejercicio12_frutas\ejercicio12_frutas\ejercicio12_frutas\bin\Debug\net8.0\ejercicio12_frutas.runtimeconfig.json
+C:\Users\Usuario\programacion_2024\ejercicio12_frutas\ejercicio12_frutas\ejercicio12_frutas\bin\Debug\net8.0\ejercicio12_frutas.dll
+C:\Users\Usuario\programacion_2024\ejercicio12_frutas\ejercicio12_frutas\ejercicio12_frutas\bin\Debug\net8.0\ejercicio12_frutas.pdb
+C:\Users\Usuario\programacion_2024\ejercicio12_frutas\ejercicio12_frutas\ejercicio12_frutas\obj\Debug\net8.0\ejercicio12_frutas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\programacion_2024\ejercicio12_frutas\ejercicio12_frutas\ejercicio12_frutas\obj\Debug\net8.0\ejercicio12_frutas.AssemblyInfoInputs.cache
+C:\Users\Usuario\programacion_2024\ejercicio12_frutas\ejercicio12_frutas\ejercicio12_frutas\obj\Debug\net8.0\ejercicio12_frutas.AssemblyInfo.cs
+C:\Users\Usuario\programacion_2024\ejercicio12_frutas\ejercicio12_frutas\ejercicio12_frutas\obj\Debug\net8.0\ejercicio12_frutas.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\programacion_2024\ejercicio12_frutas\ejercicio12_frutas\ejercicio12_frutas\obj\Debug\net8.0\ejercicio12_frutas.sourcelink.json
+C:\Users\Usuario\programacion_2024\ejercicio12_frutas\ejercicio12_frutas\ejercicio12_frutas\obj\Debug\net8.0\ejercicio12_frutas.dll
+C:\Users\Usuario\programacion_2024\ejercicio12_frutas\ejercicio12_frutas\ejercicio12_frutas\obj\Debug\net8.0\refint\ejercicio12_frutas.dll
+C:\Users\Usuario\programacion_2024\ejercicio12_frutas\ejercicio12_frutas\ejercicio12_frutas\obj\Debug\net8.0\ejercicio12_frutas.pdb
+C:\Users\Usuario\programacion_2024\ejercicio12_frutas\ejercicio12_frutas\ejercicio12_frutas\obj\Debug\net8.0\ejercicio12_frutas.genruntimeconfig.cache
+C:\Users\Usuario\programacion_2024\ejercicio12_frutas\ejercicio12_frutas\ejercicio12_frutas\obj\Debug\net8.0\ref\ejercicio12_frutas.dll
